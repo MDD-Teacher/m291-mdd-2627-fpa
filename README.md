@@ -9,3 +9,5 @@ Je suis enseignant auprès des apprentis médiamaticiens CFC en Suisse romande.
 - Créer une application **MédiaCaisse** et une association des profs de la médiamatique pour l'encadrer
 ## Comment me trouver
 - GitHub : MDDTeacher
+
+_Repo cloné et ouvert dans VS Code._
