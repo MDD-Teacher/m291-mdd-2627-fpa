@@ -9,6 +9,8 @@
 ## Semaine 2 - 28.08.2026 P2-P4
 - exercice e1-2b-page-profil.pdf (20min)
 - Explication de la ligne 136 de mon code
+- Mise en ligne avec GitHub Pages (Peut durer un certain temps (20min))
+
 
 ### Explication ligne 136
 #### Explication des attributs `target` et `rel`
