@@ -8,9 +8,9 @@ Barème : 1 = cassé · 3 = moyen · 5 = ça va (ces pages n’auront jamais 5 p
 | Capture | Lisibilité | Navigation | Feedback | Cohérence | Accessibilité | Phrase précise |
 | --- | --- | --- | --- | --- | --- | --- |
 | 01 mur de texte | (Lisibilité) | (Navigation) | (Feedback) | (Cohérence) | (Accessibilité) | (Phrase précise) |
-| 02 labyrinthe | | | | | | |
-| 03 silence | | | | | | |
-| 04 carnaval | | | | | | |
+| 02 labyrinthe | (Lisibilité) | (Navigation) | (Feedback) | (Cohérence) | (Accessibilité) | (Phrase précise) |
+| 03 silence | (Lisibilité) | (Navigation) | (Feedback) | (Cohérence) | (Accessibilité) | (Phrase précise) |
+| 04 carnaval | (Lisibilité) | (Navigation) | (Feedback) | (Cohérence) | (Accessibilité) | (Phrase précise) |
 
 ## La pire, pour la présentation
 
